@@ -1,6 +1,7 @@
-- 👋 Hi, I’m HyunKyungHan!
-- 👀 I’m interested in Deep Learning/Computer Vision/NLP!
+- 👋 Hi, I’m HyunKyung! Welcome to my github😃
+- 💡 I’m interested in Deep Learning/Computer Vision/NLP!
 - 🌱 I’m currently learning Web Development [@FrontendMasters](https://frontendmasters.com/) & Programming [@Harvard'sCS50](https://www.youtube.com/c/cs50).
+- 👀 I'm looking for summer internships 2022!
 - 📫 You can contact me via [DM](https://www.instagram.com/gang_.r._.g).
 
 
