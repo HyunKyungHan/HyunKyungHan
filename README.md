@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HyunKyungHan
 - 👀 I’m interested in Deep Learning/Computer Vision/NLP!
-- 🌱 I’m currently learning programming @Harvard'sCS50.
+- 🌱 I’m currently learning Web Development [@FrontendMasters](https://frontendmasters.com/) & Programming [@Harvard'sCS50](https://www.youtube.com/c/cs50).
 - 📫 You can contact me via [DM](https://www.instagram.com/gang_.r._.g).
 
 
