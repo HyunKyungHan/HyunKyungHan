@@ -1,6 +1,6 @@
 - 👋 Hi, I’m HyunKyung! Welcome to my github😃
 - 💡 I’m interested in Deep Learning/Computer Vision/NLP!
-- 🌱 I’m currently learning Web Development [@FrontendMasters](https://frontendmasters.com/) & Programming [@Harvard'sCS50](https://www.youtube.com/c/cs50).
+- 🌱 I’m currently learning Programming [@Harvard'sCS50](https://www.youtube.com/c/cs50) & Web Development [@FrontendMasters](https://frontendmasters.com/).
 - 👀 I'm looking for summer internships 2022!
 - 📫 You can contact me via [DM](https://www.instagram.com/gang_.r._.g).
 
