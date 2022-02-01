@@ -2,7 +2,7 @@
 - 💡 I’m interested in Deep Learning/Computer Vision/NLP!
 - 🌱 I’m currently learning Programming [@Harvard'sCS50](https://www.youtube.com/c/cs50) & Web Development [@FrontendMasters](https://frontendmasters.com/).
 - 👀 I'm looking for summer internships 2022!
-- 📫 You can contact me via [DM](https://www.instagram.com/gang_.r._.g).
+- 📫 You can contact me via [DM](https://www.instagram.com/gang_.r._.g) or [email](judykyung@gmail.com).
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HyunKyungHan)
 
