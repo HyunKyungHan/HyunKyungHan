@@ -1,7 +1,19 @@
-- 👋 Hi, I’m HyunKyung! Welcome to my github😃
-- 🌱 I’m currently learning Programming [@Harvard'sCS50](https://www.youtube.com/c/cs50) & Web Development [@FrontendMasters](https://frontendmasters.com/).
+## 👋 Hi, I’m HyunKyung! Welcome to my github😃
+- 🖥️ I major Computer Science & Engineering.
 - 👀 I'm looking for summer internships 2022!
 - 📫 You can contact me via [DM](https://www.instagram.com/gang_.r._.g).
+
+## 🌱Learning
+- Programming [@Harvard'sCS50](https://www.youtube.com/c/cs50)
+- Web Development [@FrontendMasters](https://frontendmasters.com/)
+
+## 💡Interests
+- Frontend Development
+- ML/DL
+- (*Spanish.. 💃*)
+
+## 🌆Experience
+- GDSC Ewha member
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HyunKyungHan)
 
