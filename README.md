@@ -1,4 +1,4 @@
-## 👋 Hi, I’m HyunKyung! Welcome to my github😃
+## 👋 Hi there, I’m HyunKyung!
 - 🖥️ I major Computer Science & Engineering.
 - 👀 I'm looking for summer internships 2022!
 - 📫 You can contact me via [DM](https://www.instagram.com/gang_.r._.g).
