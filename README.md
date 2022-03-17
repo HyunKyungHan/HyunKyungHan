@@ -5,12 +5,8 @@
 
 ## 🌱Learning
 - Programming [@Harvard'sCS50](https://www.youtube.com/c/cs50)
-- Web Development [@FrontendMasters](https://frontendmasters.com/)
-
-## 💡Interests
-- Frontend Development
+- Frontend Web Development [@FrontendMasters](https://frontendmasters.com/)
 - ML/DL
-- (*Spanish.. 💃*)
 
 ## 🌆Experience
 - GDSC Ewha member
