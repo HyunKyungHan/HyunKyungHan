@@ -2,12 +2,12 @@
 - 🖥️ I major Computer Science & Engineering.
 - 👀 I'm looking for summer internships 2022!
 - 📫 You can contact me via [DM](https://www.instagram.com/gang_.r._.g).
-***
+- - -
 ### 🌱Learning
 - Programming [@Harvard'sCS50](https://www.youtube.com/c/cs50)
 - Frontend Web Development [@FrontendMasters](https://frontendmasters.com/)
 - ML/DL
-***
+- - -
 ### 🌆Experience
 - GDSC Ewha member
 
