@@ -5,7 +5,7 @@
 ### 🌱Learning
 - Programming [@Harvard'sCS50](https://www.youtube.com/c/cs50)
 - Frontend Web Development [@FrontendMasters](https://frontendmasters.com/)
-- ML/DL
+- M
 ### 🌆Experience
 - GDSC Ewha member
 
