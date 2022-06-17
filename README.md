@@ -1,14 +1,16 @@
 ### 👋 Hi there, I’m HyunKyung!
 - 🖥️ I major Computer Science & Engineering.
 - 👀 I'm looking for summer internships 2022!
-- 📫 You can contact me via [DM](https://www.instagram.com/gang_.r._.g).
+- 📫 You can contact me via [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hhk@ewhain.net)](mailto:hhk@ewhain.net) [![Instagram Badge](http://img.shields.io/badge/-Instagram-black?style=flat-square&logo=instagram&logoColor=cd486b&link=https://www.instagram.com/gang_.r._.g)](https://www.instagram.com/gang_.r._.g) [![Velog Badge](http://img.shields.io/badge/-Velog-20c997?style=flat-square&logo=velog&logoColor=white&link=https://velog.io/@shining_arrow)](https://velog.io/@shining_arrow)
+
+
 ### 🌱Learning
 - Programming [@Harvard'sCS50](https://www.youtube.com/c/cs50)
 - Frontend Web Development [@FrontendMasters](https://frontendmasters.com/)
 - MLOps
 ### 🌆Experience
-- GDSC Ewha member
-
+- GDSC Ewha member `2022.03 ~`
+- Ewha DnA Lab `2022.06 ~ `
 <div align=center>
  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HyunKyungHan&show_icons=true&theme=tokyonight)
