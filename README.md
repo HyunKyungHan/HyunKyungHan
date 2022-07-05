@@ -8,8 +8,9 @@
 - MLOps [@FullStackDeepLearning](https://fullstackdeeplearning.com/spring2021/)
 - ---
 ### 🌆Experience
-- GDSC Ewha member `2022.03 ~`
+- GDSC Ewha member `2022.03 ~ 2022.07`
 - Ewha DnA Lab `2022.06 ~ `
+- LG Aimers `2022.07 ~`
 - ---
 ### 📫Contact
 - [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hhk@ewhain.net)](mailto:hhk@ewhain.net) [![Instagram Badge](http://img.shields.io/badge/-Instagram-cd486b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/gang_.r._.g)](https://www.instagram.com/gang_.r._.g) [![Velog Badge](http://img.shields.io/badge/-Velog-20c997?style=flat-square&logo=velog&logoColor=white&link=https://velog.io/@shining_arrow)](https://velog.io/@shining_arrow)
