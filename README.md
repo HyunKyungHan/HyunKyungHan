@@ -3,14 +3,16 @@
 - 👀 I'm currently most interested in <b>Deep Learning</b> and <b>Computer Vision</b>.
 ---
 ### 🌱Learning
-- Programming [@Harvard'sCS50](https://www.youtube.com/c/cs50)
+- Programming [@CS50](https://www.youtube.com/c/cs50)
 - Frontend Web Development [@FrontendMasters](https://frontendmasters.com/)
 - MLOps [@FullStackDeepLearning](https://fullstackdeeplearning.com/spring2021/)
 - ---
 ### 🌆Experience
 - GDSC Ewha member `2022.03 ~ 2022.07`
+- LG Aimers `2022.07 ~ 2022.08`
 - Ewha DnA Lab `2022.06 ~ `
-- LG Aimers `2022.07 ~`
+- PyTorch.kr Open Source Contributor `2022.07 ~`
+
 - ---
 ### 📫Contact
 - [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hhk@ewhain.net)](mailto:hhk@ewhain.net) [![Instagram Badge](http://img.shields.io/badge/-Instagram-cd486b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/gang_.r._.g)](https://www.instagram.com/gang_.r._.g) [![Velog Badge](http://img.shields.io/badge/-Velog-20c997?style=flat-square&logo=velog&logoColor=white&link=https://velog.io/@shining_arrow)](https://velog.io/@shining_arrow)
