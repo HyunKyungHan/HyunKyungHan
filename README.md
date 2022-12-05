@@ -5,6 +5,7 @@
 ### 🌱Learning
 - Programming [@CS50](https://www.youtube.com/c/cs50)
 - MLOps [@FullStackDeepLearning](https://fullstackdeeplearning.com/spring2021/)
+- RecSys [@Udemy](https://www.udemy.com/course/best-recommender-system/)
 - ---
 ### 🌆Experience
 - GDSC Ewha member `2022.03 ~ 2022.07`
