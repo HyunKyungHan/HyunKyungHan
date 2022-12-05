@@ -4,7 +4,6 @@
 ---
 ### 🌱Learning
 - Programming [@CS50](https://www.youtube.com/c/cs50)
-- Frontend Web Development [@FrontendMasters](https://frontendmasters.com/)
 - MLOps [@FullStackDeepLearning](https://fullstackdeeplearning.com/spring2021/)
 - ---
 ### 🌆Experience
