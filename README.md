@@ -1,6 +1,6 @@
 ### 👋 Hi there, I’m HyunKyung!
 - 🖥️ I major Computer Science & Engineering.
-- 👀 I'm currently most interested in <b>Deep Learning</b> and <b>Computer Vision</b>.
+- 👀 I'm interested in <b>Machine Learning</b>/<b>Deep Learning</b>, especially <b>Computer Vision</b> and <b>RecSys</b>.
 ---
 ### 🌱Learning
 - Programming [@CS50](https://www.youtube.com/c/cs50)
