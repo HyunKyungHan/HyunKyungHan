@@ -1,7 +1,7 @@
 ### 👋 Hi there, I’m HyunKyung!
 - 🖥️ I major Computer Science & Engineering.
 - 👀 I'm interested in <b>Computer Vision</b> and <b>medicalAI</b>.
-- 👩‍💻 I'm currently interning [@NewCureM](http://www.newcurem.com/html/)
+- 👩‍💻 I'm currently [@NewCureM](http://www.newcurem.com/html/)
 <!-- ---
 ### 🌱Learning
 - Programming [@CS50](https://www.youtube.com/c/cs50)
