@@ -15,7 +15,7 @@
 
 - ---
 ### 📫Contact
-- [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hhk@ewhain.net)](mailto:hhk@ewhain.net) [![Instagram Badge](http://img.shields.io/badge/-Instagram-cd486b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/gang_.r._.g)](https://www.instagram.com/gang_.r._.g) ![Static Badge](https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=tistory&link=https%3A%2F%2Fhkhan.tistory.com%2F)
+- [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hhk@ewhain.net)](mailto:hhk@ewhain.net) [![Instagram Badge](http://img.shields.io/badge/-Instagram-cd486b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/gang_.r._.g)](https://www.instagram.com/gang_.r._.g) [![Static Badge](https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=tistory&link=https://hkhan.tistory.com)](https://hkhan.tistory.com)
  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHyunKyungHan&count_bg=%2395A4EF&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <!-- [![Velog Badge](http://img.shields.io/badge/-Velog-20c997?style=flat-square&logo=velog&logoColor=white&link=https://velog.io/@shining_arrow)](https://velog.io/@shining_arrow) --->
